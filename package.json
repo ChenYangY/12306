@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/ChenYangY/12306/issues"
   },
-  "homepage": "https://github.com/ChenYangY/12306#readme"
+  "homepage": "https://github.com/ChenYangY/12306#readme",
+  "dependencies": {
+    "compression": "^1.6.0",
+    "express": "^4.13.3",
+    "express-session": "^1.13.0",
+    "loader": "^2.0.0"
+  },
+  "devDependencies": {
+    "loader-builder": "^1.2.1"
+  }
 }
