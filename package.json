@@ -1,0 +1,22 @@
+{
+  "name": "12306",
+  "version": "0.0.1",
+  "description": "cheerio",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenYangY/12306.git"
+  },
+  "keywords": [
+    "12306"
+  ],
+  "author": "chenyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChenYangY/12306/issues"
+  },
+  "homepage": "https://github.com/ChenYangY/12306#readme"
+}
