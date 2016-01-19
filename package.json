@@ -21,9 +21,11 @@
   "homepage": "https://github.com/ChenYangY/12306#readme",
   "dependencies": {
     "compression": "^1.6.0",
+    "ejs-mate": "^2.3.0",
     "express": "^4.13.3",
     "express-session": "^1.13.0",
-    "loader": "^2.0.0"
+    "loader": "^2.0.0",
+    "superagent": "^1.6.1"
   },
   "devDependencies": {
     "loader-builder": "^1.2.1"
