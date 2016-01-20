@@ -15,7 +15,7 @@ app.engine('html',require('ejs-mate'));
 app.locals._layoutFile = 'layout.html';
 app.enable('trust proxy');
 
-app.use(/,router);
+app.use('/',router);
 app.listen(config.port,function(){
   console.log('server start:'+config.port);
 })
