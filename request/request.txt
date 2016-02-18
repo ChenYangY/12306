@@ -1,0 +1,19 @@
+head:
+  https://kyfw.12306.cn/otn/leftTicket/
+request:
+  log?
+param:
+  leftTicketDTO.train_date=2016-01-20&
+  leftTicketDTO.from_station=GZQ&
+  leftTicketDTO.to_station=HYQ&
+  purpose_codes=ADULT
+
+head:
+  https://kyfw.12306.cn/otn/leftTicket/
+request:
+  queryT?
+param:
+  leftTicketDTO.train_date=2016-01-20&
+  leftTicketDTO.from_station=GZQ&
+  leftTicketDTO.to_station=HYQ&
+  purpose_codes=ADULT

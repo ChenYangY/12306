@@ -1,0 +1,65 @@
+log:
+{
+  "validateMessagesShowId":"_validatorMessage",
+  "status":true,"httpstatus":200,
+  "messages":[],"validateMessages":{}
+}
+
+query:
+{
+	"validateMessagesShowId":"_validatorMessage",
+	"status":true,
+	"httpstatus":200,
+	"data":[{
+			"queryLeftNewDTO":{
+				"train_no":"62000K90170F",
+				"station_train_code":"K9017",
+				"start_station_telecode":"CSQ",
+				"start_station_name":"长沙",
+				"end_station_telecode":"SZQ",
+				"end_station_name":"深圳",
+				"from_station_telecode":"HYQ",
+				"from_station_name":"衡阳",
+				"to_station_telecode":"SZQ",
+				"to_station_name":"深圳",
+				"start_time":"00:05",
+				"arrive_time":"08:40",
+				"day_difference":"0",
+				"train_class_name":"",
+				"lishi":"08:35",
+				"canWebBuy":"Y",
+				"lishiValue":"515",
+				"yp_info":"1000003074400000000030000000381000000074",
+				"control_train_day":"20991231",
+				"start_train_date":"20160228",
+				"seat_feature":"W3431333",
+				"yp_ex":"10403010",
+				"train_seat_feature":"3",
+				"seat_types":"1431",
+				"location_code":"Q6",
+				"from_station_no":"03",
+				"to_station_no":"08",
+				"control_day":59,
+				"sale_time":"1600",
+				"is_support_card":"0",
+				"controlled_train_flag":"0",
+				"controlled_train_message":"正常车次，不受控",
+				"yz_num":"有",
+				"rz_num":"--",
+				"yw_num":"有",
+				"rw_num":"无",
+				"gr_num":"--",
+				"zy_num":"--",
+				"ze_num":"--",
+				"tz_num":"--",
+				"gg_num":"--",
+				"yb_num":"--",
+				"wz_num":"有",
+				"qt_num":"--",
+				"swz_num":"--"
+			},
+			"secretStr":"MjAxNi0wMi0yOSMwMCNLOTAxNyMwODozNSMwMDowNSM2MjAwMEs5MDE3MEYjSFlRI1NaUSMwODo0MCPooaHpmLMj5rex5ZyzIzAzIzA4IzEwMDAwMDMwNzQ0MDAwMDAwMDAwMzAwMDAwMDAzODEwMDAwMDAwNzQjUTYjMTQ1MzI5ODI0MjY5MCMxNDUxNjM1MjAwMDAwIzQ4MDM1MDkwMDg4QkEzQUY2REVCNDg5NDhBMUM3NEQ2RDMwRTIzMEU2RDc5RjJFN0JBMjIwMDg4",
+			"buttonTextInfo":"预订"
+		}],
+	"messages":[],"validateMessages":{}
+}
